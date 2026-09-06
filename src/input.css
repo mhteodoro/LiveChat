@@ -1,0 +1,4 @@
+@import "tailwindcss";
+
+/* Linha obrigatória para o seu caso */
+@source "../public";
